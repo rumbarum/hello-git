@@ -1,4 +1,4 @@
 # hello-git
 for git practice
 
-WECODE 박지훈
+WECODE 한바름 다녀갑니다 뿌잉뿌잉 
